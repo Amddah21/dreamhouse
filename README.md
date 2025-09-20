@@ -37,7 +37,7 @@ A modern real estate platform built with Next.js, featuring property listings, u
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dreamhouse.git
+git clone https://github.com/Amddah21/dreamhouse.git
 cd dreamhouse
 ```
 
